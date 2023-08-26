@@ -25,6 +25,7 @@ nav ul {
   margin: 0;
   display: flex;
   justify-content: center;
+  font-size: 1.5 rem;
 }
 
 nav li {
@@ -34,6 +35,10 @@ nav li {
 nav a {
   color: #fff;
   text-decoration: none;
+}
+
+.navbar {
+  font-size: 1.5 rem;
 }
 
 header {
