@@ -22,6 +22,7 @@ header {
 .header-content {
   font-size: 2rem; 
   font-weight: bold;
+  font-family: 'PT Serif', serif;
 }
 
 nav ul {
@@ -31,7 +32,8 @@ nav ul {
   display: flex;
   justify-content: flex-end;
   font-size: 1.5 rem;
-  margin-top: .5rem;
+  margin: .5rem;
+  font-family: 'PT Serif', serif;
 }
 
 nav li {
@@ -71,6 +73,8 @@ header {
 /* Main styles */
 main {
   padding: 2rem;
+  font-family: 'PT Serif', serif;
+  text-align: center;
 }
 
 /* Section styles */
